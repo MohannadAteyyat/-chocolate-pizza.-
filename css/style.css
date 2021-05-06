@@ -1,0 +1,120 @@
+/* *{
+    box-sizing: border-box ;
+    width: 100
+} */
+body{
+   width:  70%;
+   position: relative;
+   left: 220px;
+   
+}
+header img {
+    /* width: 7%; */
+    
+}
+header{
+    margin-bottom: -60px;
+}
+h1 {
+position: relative;
+bottom: 70px;
+left: 60px;
+font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+
+}
+h2{
+    padding-left: 4%;
+    position: relative;
+    bottom: 90px;
+    font-size: 14px;
+    opacity: .3;
+}
+div img {
+    float: right;
+    position: relative;
+    bottom: 140px;
+    right: 90px;
+    padding: .5px;
+    
+}
+aside img {
+    float: right;
+    position: relative;
+    bottom: 140px;
+    left: 135px;
+    padding: .5px;
+    
+}
+h3 {
+font-size: 34px;
+font-weight:150px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h5{
+    position: relative;
+    bottom: 30px;
+    font-size: 18px;
+    opacity: .3;
+}
+section img {
+    width: 100%;
+}
+p {
+    text-indent: 20px;
+}
+
+ main div  {
+    background-image: url('/img/list-bg.png');
+    
+    /* background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%; */
+  }
+  dt 
+  {
+      float: right;
+      width: 40%;
+      position: relative;
+      bottom: 230px;
+  }
+  footer img {
+      position: relative;
+      top:80px
+  }
+  h4 {
+      font-size: 20px;
+      font-family: sans-serif;
+      position: relative;
+      left: 80px;
+  }
+  h6{  position: relative;
+     bottom: 80px;  left: 500px;
+
+width:15% ;
+
+    
+    border: solid 2px rgb(206, 41, 41) ;
+    background-color: chocolate;
+    font-size: 22px;
+    color: white;
+    font-weight: unset;
+    font-family:monospace
+
+  }
+  footer p {position: relative;
+left: 100px;
+bottom: 120px;
+}
+footer picture { 
+    position: relative;
+    bottom: 100px;
+    left: 500px;
+
+
+}
+footer div { text-align: center;
+
+
+}
